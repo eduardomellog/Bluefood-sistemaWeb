@@ -24,7 +24,7 @@ O projeto está concluído.
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando o Bluefood
 
 Não há necessidade de instalar.
 
